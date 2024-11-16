@@ -11,5 +11,9 @@
     "url": "https://github.com/Sciencewolf/szakdolgozat-algorithm.git"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node-lts": "^22.0.0",
+    "ts-node": "^10.9.2"
+  }
 }
